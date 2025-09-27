@@ -347,7 +347,7 @@
     .hero__content{
         display: flex;
         align-items: center;
-        justify-content: center;
+        flex-direction: column;
         text-align: center;
         max-width: none;
         width: 100%;
@@ -370,5 +370,6 @@
     .hero__title{
         font-size: 12vw;
     }
+
 
 }
