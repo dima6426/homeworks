@@ -46,7 +46,8 @@
 }
 
 .main__program,
-.main__gallery {
+.main__gallery,
+.main__testimonials {
     margin-bottom: 145px;
 }
 
